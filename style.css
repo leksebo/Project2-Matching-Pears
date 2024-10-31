@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    /*Handles how padding & border will be added to an element*/
+    box-sizing: border-box;
+}
+
+body {
+    /*viewport is visible area of webpage*/
+    /*vh=viewpoint height*/
+    height: 100vh;
+    background-color: blueviolet;
+}
